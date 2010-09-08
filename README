@@ -2,7 +2,7 @@ This is ugly.  I hacked it together so I could generate some HTML reports from P
 
 We have lots of projects going on at once and the Pivotal Tracker site does not have a good way to show all the stories one person has going in all their projects.  
 
-This script creates a summary file called "project.html" for the "project manager" so they can see the big picture.  It also generates individual "Joe Smith.html" files for the individuals who own stories.
+This script creates a summary file called "projects.html" for the "project manager" so they can see the big picture.  It also generates individual "Joe Smith.html" files for the individuals who own stories.
 
 
 TODO:
